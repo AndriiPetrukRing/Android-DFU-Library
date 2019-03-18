@@ -1,6 +1,7 @@
 package no.nordicsemi.android.dfu;
 
-import androidx.annotation.IntDef;
+
+import android.support.annotation.IntDef;
 
 @SuppressWarnings("WeakerAccess")
 @IntDef(value = {

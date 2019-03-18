@@ -25,8 +25,8 @@ package no.nordicsemi.android.dfu;
 import android.content.Intent;
 import android.os.ParcelUuid;
 import android.os.Parcelable;
+import android.support.annotation.NonNull;
 
-import androidx.annotation.NonNull;
 
 /* package */ class UuidHelper {
 
